@@ -1,0 +1,55 @@
+.but{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: grey;
+}
+.effect{
+  background-color: white;
+  display: block;
+  align: center;
+  width: 500px;
+  color: black;
+  font-size: 20px;
+  padding: 12px 28px;
+  border: 0.5px solid white;
+  border-radius: 12px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.5s;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.effect:hover {
+  background-color: #00ff3c;
+  color: white;
+  border: 0.5px solid green;
+}
+.fs{
+  margin: 5% 30% 5% 30%;
+  padding: 0px;
+
+}
+.jcolor{
+  padding-bottom: 5px;
+  padding-top: 5px;
+  border-radius: 20px;
+}
+.center{
+  text-align: center;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.anch{
+  margin-left: 17.5rem;
+  margin-right: 17.5rem;
+}
+.bg{
+  background-image: url(https://dollarfootage.com/wp-content/uploads/2017/05/tetrahedron-particle-field-explosion-grey-gradient-bg-1-img.jpg);
+  padding-top: 3rem;
+  padding-bottom: 7rem;
+}
+.head{
+  padding-bottom: 2rem;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+}
